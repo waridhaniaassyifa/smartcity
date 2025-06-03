@@ -40,3 +40,12 @@ graph TD
     D2 --> E
     E --> F[Tampilkan peta dengan folium]
     F --> G[Peta interaktif terbuka di browser]
+
+---
+
+![Traffic Map Example](https://example.com/traffic-map.png)
+
+---
+
+## 🚀 Ayo mulai!  
+Jalankan kode, dan nikmati pengalaman navigasi yang lebih pintar.
