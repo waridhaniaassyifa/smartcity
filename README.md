@@ -41,6 +41,26 @@ Efisien untuk mencari jalur terpendek dari titik awal ke tujuan.
 > Kemacetan tidak diambil dari sumber real-time. Data ini **hanya simulasi** dan tidak mencerminkan kondisi aktual di Kota Bengkulu. Diperlukan integrasi API eksternal untuk mendukung prediksi kemacetan nyata.
 
 ---
+## 📍 Daftar Lokasi yang Dapat Diakses
+
+| No | Lokasi Populer (Patokan)     |
+| -- | ---------------------------- |
+| 1  | Kampus 1 Universitas Dehasen |
+| 2  | SDIT Rabbani                 |
+| 3  | SMA Negeri 5 Bengkulu        |
+| 4  | Belakang RRI Bengkulu        |
+| 5  | SD Negeri 5 Kota Bengkulu    |
+| 6  | RSUD M. Yunus Bengkulu       |
+| 7  | Perumahan Bentiring Permai   |
+| 8  | Pantai Panjang               |
+| 9  | SMPN 07 Kota Bengkulu        |
+| 10 | Pasar Panorama               |
+| 11 | Pasar Minggu                 |
+| 12 | Universitas Bengkulu (UNIB)  |
+| 13 | SMPIT Iqra Bengkulu          |
+| 14 | Masjid Raya Baitul Izza      |
+
+---
 
 ## ⚙️ Alur Sistem
 
@@ -48,9 +68,6 @@ Efisien untuk mencari jalur terpendek dari titik awal ke tujuan.
 
 ---
 
-![Traffic Map Example](https://example.com/traffic-map.png)
-
----
-
 ## 🚀 Ayo mulai!  
-Jalankan kode, dan nikmati pengalaman navigasi yang lebih pintar.
+Jalankan kode, dan nikmati pengalaman navigasi yang lebih pintar untuk Kota Bengkulu.  
+**Menuju kota cerdas yang lebih nyaman dan efisien.**
