@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="URL_GAMBAR_BANNER" alt="Smart City Bengkulu" width="100%" />
+</p>
+
 # 🚦 Smart City: Sistem Prediksi & Navigasi Kemacetan Bengkulu
 
 Proyek ini merupakan bagian dari pengembangan sistem Smart City untuk Kota Bengkulu. Sistem ini bertujuan memberikan **peringatan dini terhadap kemacetan lalu lintas** dan merekomendasikan **rute alternatif** secara visual melalui peta interaktif.
