@@ -31,7 +31,7 @@ Efisien untuk mencari jalur terpendek dari titik awal ke tujuan.
 
 ---
 
-## 📊 Jenis & Sumber Data
+## 📊 Jenis, Sumber Data, dan Preprocessing
 
 - **Data jalan**: OpenStreetMap (diakses dengan `osmnx`)
 - **Geolokasi pengguna**: Lokasi awal & tujuan dimasukkan manual lalu dikonversi menjadi koordinat dengan geopy
@@ -41,6 +41,33 @@ Efisien untuk mencari jalur terpendek dari titik awal ke tujuan.
 > Kemacetan tidak diambil dari sumber real-time. Data ini **hanya simulasi** dan tidak mencerminkan kondisi aktual di Kota Bengkulu. Diperlukan integrasi API eksternal untuk mendukung prediksi kemacetan nyata.
 
 ---
+
+## 📈 Strategi Evaluasi Model
+
+- Evaluasi dilakukan dengan data historis lalu lintas menggunakan MSE (Mean Squared Error) sebagai metrik utama untuk prediksi kepadatan.  
+- Akurasi dan recall digunakan untuk menilai kemampuan deteksi kemacetan.  
+- Validasi model secara berkala dengan data real-time saat integrasi API selesai.
+
+## 🚀 Pengembangan Lanjutan
+
+- Integrasi data real-time dari sensor dan kamera lalu lintas.  
+- Pengiriman notifikasi peringatan kemacetan ke pengguna secara langsung.  
+- Pengembangan aplikasi mobile interaktif untuk kemudahan akses masyarakat.  
+- Integrasi dengan sistem transportasi publik dan layanan ridesharing.
+
+---
+
+## 👥 Tim Pengembang
+
+Ketua  :
+Khaylilla Shafaraly Irnanda (G1A023079)
+
+Member :
+Aurel Moura Athanafisah  (G1A023001)   
+Waridhania As Syifa      (G1A023075)   
+
+---
+
 ## 📍 Daftar Lokasi yang Dapat Diakses
 
 | No | Lokasi Populer (Patokan)     |
@@ -59,6 +86,8 @@ Efisien untuk mencari jalur terpendek dari titik awal ke tujuan.
 | 12 | Universitas Bengkulu (UNIB)  |
 | 13 | SMPIT Iqra Bengkulu          |
 | 14 | Masjid Raya Baitul Izza      |
+
+💡 Gunakan nama lokasi persis seperti tertulis untuk hasil terbaik
 
 ---
 
