@@ -34,7 +34,7 @@ Efisien untuk mencari jalur terpendek dari titik awal ke tujuan.
 ## 📊 Jenis & Sumber Data
 
 - **Data jalan**: OpenStreetMap (diakses dengan `osmnx`)
-- **Geolokasi pengguna**: Lokasi awal & tujuan dimasukkan manual → dikonversi menjadi koordinat dengan geopy
+- **Geolokasi pengguna**: Lokasi awal & tujuan dimasukkan manual lalu dikonversi menjadi koordinat dengan geopy
 - **Kemacetan**: **Data dummy** yang disimulasikan berdasarkan node tertentu secara statis
 
 ### 📌 Catatan tentang data dummy:
